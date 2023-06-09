@@ -56,6 +56,7 @@ Return currentSmallest
 
 Function Maximum = (a,b,c,d,e)
 {
+currentLargest = a
 if currentLargest < b
 then currentLargest b
 if currentLargest < c
